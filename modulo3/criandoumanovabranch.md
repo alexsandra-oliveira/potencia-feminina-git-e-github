@@ -1,5 +1,6 @@
 ### Criando uma nova branch pelo terminal
 
+<<<<<<< HEAD
 Comando necessário para criar uma nova branch
 
 git checkout -b (nome da nova branch)
@@ -24,3 +25,9 @@ git pull - para atualizar os repositorios local e github.
 git merge modulo-3 - para fazer merge dos repositorios.
 git status
 git push
+=======
+Comando necessário para a formataçao de uma nova branch via terminal:
+
+git checkout -b (nome da nova branch)
+
+>>>>>>> modulo-3
