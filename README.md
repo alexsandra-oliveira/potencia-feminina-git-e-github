@@ -6,3 +6,5 @@
 ### Modulo1
 ### Modulo2
 ### Modulo3
+
+Realizamos alguns exercícios para fixar os conceitos aprendidos.
