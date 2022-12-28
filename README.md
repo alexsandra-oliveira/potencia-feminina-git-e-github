@@ -14,3 +14,4 @@ Aprendemos a trabalhar com branchs, fazer pull requests;
 Colaborar com projetos de outras pessoas e gerenciar issues,
 e pull requests com github projects,
 
+Realizamos alguns exercícios para fixar os conceitos aprendidos.
